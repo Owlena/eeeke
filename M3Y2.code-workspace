@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "../../../pro/M3Y2"
+		},
+		{
+			"path": "../Desktop/инф/Новая папка/calculator-main/static"
+		},
+		{
+			"path": "../Desktop/инф/Новая папка/calculator-main/templates"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "M3Y2"
+	}
+}
